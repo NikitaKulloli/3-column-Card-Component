@@ -1,1 +1,1 @@
-# 3-column-Card-Component
+# Responsive-3-preview-card-using-HTML-CSS-And-CSS-Flexbox
